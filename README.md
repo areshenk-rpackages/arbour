@@ -13,5 +13,5 @@ a simple header format.
 - Compile summary reports detailing the large-scale code structure of a project.
 
 A secondary function of the package is to encourage good research practices by
-encouraging the user to make use of a standardized workflow, and to document code
+forcing the user to make use of a standardized workflow, and to document code
 and data properly during the research process.
